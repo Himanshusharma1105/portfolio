@@ -12,6 +12,7 @@ nav{
     justify-content:space-between ;
     align-items: center;
     height: 80px;
+    width:100%;
     color:rgb(221, 214, 10);
 }
 nav ul{
